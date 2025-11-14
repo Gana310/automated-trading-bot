@@ -33,6 +33,6 @@ black==23.12.1
 # Type checking
 mypy==1.7.1
 
-#PyYAML
+# PyYAML
 PyYAML>=6.0.1
 
