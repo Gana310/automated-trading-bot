@@ -1,7 +1,7 @@
 # Python dependencies for automated trading bot
 
 # Trading API
-alpaca-trade-api==3.0.2
+alpaca-trade-api>=4.0.0
 
 # Environment variables management
 python-dotenv==1.0.0
